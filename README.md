@@ -1,4 +1,4 @@
-![budget_tracker_thumbnail]([https://github.com/Kliton/budget_tracker/assets/10452377/cd88f35f-ae36-40b0-a12c-c2b263f6b732](https://github.com/Nalin216127/budget-tracker/blob/main/budget-tracker1-sand-chi.vercel.app_.png))
+![budget_tracker_thumbnail](budget-tracker1-sand-chi.vercel.app_.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
